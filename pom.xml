@@ -58,11 +58,6 @@ exec:exec@run-cluster - Run the  code on yarn cluster in client mode. For this t
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-    	<groupId>net.martinprobson</groupId>
-    	<artifactId>Hadoop_Util</artifactId>
-    	<version>0.1</version>
-    </dependency>
   </dependencies>
 
   <build>
