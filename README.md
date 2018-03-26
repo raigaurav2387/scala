@@ -26,5 +26,5 @@ The pom also includes two exec goals: -
 
 # Reference
 
-[Maven for scala link](https://docs.scala-lang.org/tutorials/scala-with-maven.html)
+[Maven for scala link](https://docs.scala-lang.org/tutorials/scala-with-maven.html) 
 
